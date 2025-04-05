@@ -7,5 +7,8 @@ To make the model accessible and user-friendly, we also created a simple web app
 
 This end-to-end pipeline demonstrates how deep learning and transformer-based architectures can be effectively combined with web technologies to support real-time medical image analysis.
 
-<img src="https://github.com/user-attachments/assets/9209983a-3150-4308-a922-402ceb817b35" alt="Chest" width="500"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9209983a-3150-4308-a922-402ceb817b35" alt="Chest" width="400"/>
+</div>
+
 
