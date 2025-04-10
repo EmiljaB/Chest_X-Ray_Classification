@@ -1,5 +1,8 @@
 # Chest_X-Ray_Classification
 Identifying Lung Diseases from Chest X-Rays
+
+Kaggle Link: https://www.kaggle.com/datasets/jtiptj/chest-xray-pneumoniacovid19tuberculosis
+
 # Project Description
 This project focuses on building an AI-powered diagnostic system for classifying chest X-ray images into four categories: COVID-19, Pneumonia, Tuberculosis, or Normal. We developed and trained multiple models, including a custom CNN, a ResNet50 with class-balanced training, and a hybrid CNN + Vision Transformer (ViT) model to enhance feature extraction and diagnostic accuracy.
 
